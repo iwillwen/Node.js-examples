@@ -9,11 +9,20 @@ This project welcomes your high-quality examples so that the public can learn th
 ## Format
 If you wanna to show the others your examples at here, you should make your files into this format.
 
+<<<<<<< HEAD
 	Example
 	  |- README.md
 	  |- Begin
 	       |- foo.js
 	  |- Adv
 	  |- Pro
+=======
+    Example
+      |- README.md
+      |- Begin
+           |- foo.js
+      |- Adv
+      |- Pro
+>>>>>>> feature/Cluster
 
 Having a Great Fun!
